@@ -8,4 +8,4 @@ movie plot, and much more. Movie details are retireved from 2 locations. First, 
 movie is selected from the list of oscar-nominated movies, the Movie-Flipper app retrieves details about the movie from various IMDB API endpoints.
 
 Screen Shots
-![movie_flipper_screen_shots](https://user-images.githubusercontent.com/46208209/98149639-54124f80-1e82-11eb-8fae-d12d09ba059e.png)
+![app_screen_shots](https://user-images.githubusercontent.com/46208209/98418341-86b17900-2037-11eb-9444-ad2feb61ac9f.png)
